@@ -6,10 +6,10 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/dlsu-logo.png" alt="De La Salle University" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">De La Salle University</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -59,13 +59,35 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This project involved designing and developing a website similar to De La Salle University's (DLSU) official platform, with the primary objective of providing a dynamic and user-friendly online space for students, faculty, staff, and visitors to access essential information. The website is structured to showcase academic programs, admissions procedures, research initiatives, campus events, and university news. It serves as an interactive and comprehensive resource hub for current and prospective students.
 
 Guiding Question:
 - What is the project
+The project involved creating a website that closely mirrors the structure and functionality of De La Salle University's (DLSU) official site. It aimed to design an engaging, user-friendly platform for accessing information about academic programs, admissions, campus life, research, and university news.
 - Whats the purpose
+The purpose of this project was to develop a comprehensive, interactive website that provides essential information to students, prospective applicants, faculty, and staff. It serves as an online hub where users can easily find details about the university’s academic offerings, admission processes, and campus resources while ensuring ease of navigation across various devices.
 - What are key components
+ Homepage: Featuring key announcements, university highlights, and quick access to major sections.
+
+Academic Programs: A detailed overview of courses, degree programs, and faculty members.
+
+Admissions: Information on application processes, eligibility criteria, and deadlines for prospective students.
+
+Campus Life: Details on student organizations, events, and facilities.
+
+Research: A section dedicated to showcasing the university’s research initiatives and collaborations.
+
+News & Events: An up-to-date section with important news, events, and university updates.
+
+Search Functionality: An integrated search feature for easy access to specific content across the site.
 - What technology used and how it is used
+VS Code: Used as the integrated development environment (IDE) for writing and managing the website's code, allowing for efficient development and debugging.
+
+HTML & CSS: These were used to structure and style the content of the website. HTML formed the backbone of the website, while CSS handled the layout, typography, and overall design elements.
+
+JavaScript: Used to add interactivity to the website, such as form validations, dynamic content loading, and interactive event handling (like buttons and navigation menus). JavaScript also helped enhance user engagement by creating a responsive and smooth user experience.
+
+Responsive Design: CSS media queries were utilized to ensure the website’s responsiveness, making it accessible and properly formatted across desktops, tablets, and mobile devices.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
