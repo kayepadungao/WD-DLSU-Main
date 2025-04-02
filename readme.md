@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  The DLSU website serves as an online platform offering comprehensive information about the university’s academic programs, admissions, campus life, research, and news, while fostering engagement with students, faculty, alumni, and the broader community.. (Optional)
 </div>
 
 <br />
@@ -119,4 +119,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| DLSU | The purpose of the DLSU website is to provide information about the university's programs, services, and news, while promoting its academic excellence and community engagement. | dlsu.edu.ph |
